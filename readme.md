@@ -5,6 +5,13 @@ RISK
 Een poging tot uitzoeken wat een goede gooitechniek is door welsteveel c++ te typen.
 Algoritme is nu geimplementeerd met taktieken altijd 1 of altijd met 2 verdedigen (zo lang je kan dan).
 
+maar ik moet ergens een foutje hebben gemaakt want 
+```
+Een veldslag met veldslag A: 29 V: 29 heeft een kans van 99.08% bij strategie altijd 1 verdedigen
+Een veldslag met veldslag A: 29 V: 29 heeft een kans van 67.24% bij strategie altijd 2 verdedigen
+```
+klinkt alsof het niet klopt
+
 Output is:
 ```
 Bij 1 aanvalsDobbels en 1 verdedigingsDobbels zijn de kansen als volgt:
